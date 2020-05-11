@@ -1,6 +1,6 @@
-# Project Title
+# ARI-BTP
 
-One Paragraph of project description goes here
+ARI Asset: Blockchain Traceability Platform
 
 ## Getting Started
 
